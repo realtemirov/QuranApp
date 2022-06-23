@@ -1,2 +1,2 @@
 # QuranApp
-# Audio with Sura number
+Audio with Sura number
