@@ -1,6 +1,4 @@
-﻿using QuranApp;
-
-public class Downloader
+﻿public class Downloader
 {
     private readonly string _baseUrl = "https://server7.mp3quran.net/s_gmd";
 
